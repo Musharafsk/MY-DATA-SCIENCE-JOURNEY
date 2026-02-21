@@ -16,3 +16,6 @@ Right now I’m working through the IBM Data Science Professional Certificate an
 • Visualization experiments
 • Machine learning practice (coming soon)
 • Capstone project (upcoming)
+## 📅 GitHub Day 2
+
+Day 2 of my data science journey. Continued learning through the IBM Data Science course and practicing basic concepts. Focused on understanding core ideas, exploring tools, and staying consistent with daily progress. Small steps every day toward becoming a better data scientist 🚀.
